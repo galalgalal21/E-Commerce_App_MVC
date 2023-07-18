@@ -1,0 +1,52 @@
+﻿@using E_Commerce.BLL.EntityVM
+@model List<ProductsVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="d-flex justify-content-center text-success">Products</h1>
+<div class="row justify-content-center align-items-center mt-5">
+</div>
+<div class="container my-4">
+    
+
+    <form asp-action="Index" class="row d-flex justify-content-center align-content-center ">
+
+        <div class="col-md-5  m-auto my-3">
+            <input type="text" class="form-control " onchange="KeyboardEvent" name="SearchValue" placeholder="Search By Name........" />
+        </div>
+
+        <div class="col-md-5 w-50  m-auto ">
+            <input type="submit" class="btn btn-success w-50 text-center" style="margin:auto;margin-left:2rem" value="Search" />
+        </div>
+    </form>
+
+
+</div>
+<div class="row my-5" style="margin-top:3rem">
+    @foreach (var item in Model)
+    {
+    <div class="col-sm-6 col-md-4" >
+
+
+        <div class="card" style="height:45rem">
+            <img src="~/image/@item.Image" class="card-img-top round-3" style="width: 100% ;height:20rem" >
+                <div class="card-body p-2" style="padding:15px">
+                <h5 class="card-title">@item.name</h5>
+                <p class="card-text">@item.price $</p>
+                <p class="card-text">@item.descreption</p>
+                <a asp-controller="Product" asp-action="Detels" asp-route-id="@item.id" type="button" class="btn btn-primary">Detelis</a>
+                <a asp-route-id="@item.id" asp-action="saveId" asp-controller="Product" type="button" class="btn btn-warning"> BUY </a>
+            </div>
+        </div>
+
+    </div>
+    }
+</div>
+
+
+
+<script src="//code.tidio.co/iwfti76sqazgiibijbojn2luufhrswom.js" async></script>
+
+

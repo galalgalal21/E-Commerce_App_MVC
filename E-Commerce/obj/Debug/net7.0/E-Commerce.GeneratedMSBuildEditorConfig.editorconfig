@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_Commerce
+build_property.RootNamespace = E_Commerce
+build_property.ProjectDir = F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/ConfirmForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/ConfirmResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Customer_Oreders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJfT3JlZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Customer_Oreders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJfT3JlZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Customer_Oreders/NoOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJfT3JlZGVyc1xOb09yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Customer_Oreders_Products/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJfT3JlZGVyc19Qcm9kdWN0c1xFbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Customer_Oreders_Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJfT3JlZGVyc19Qcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Product/Detels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRlbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Product/ViewProductSupp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWaWV3UHJvZHVjdFN1cHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Roles/AddOrRemoveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQWRkT3JSZW1vdmVVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Shared/MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE15TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI .Net/12. .Net Core MVC/Project E_Commerce/E-Commerce/E-Commerce/E-Commerce/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4yuo1jszy4

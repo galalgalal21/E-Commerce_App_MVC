@@ -1,0 +1,930 @@
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.Development.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.staticwebassets.runtime.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.exe
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.deps.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.runtimeconfig.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Core.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Identity.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Humanizer.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.CodeDom.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.AssemblyReference.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfoInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CoreCompileInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.pack.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.build.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.development.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\bundle\E-Commerce.styles.css
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce.bundle.scp.css
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CopyComplete
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\refint\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.genruntimeconfig.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\obj\Debug\net7.0\ref\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.Development.json
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.json
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.staticwebassets.runtime.json
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.exe
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.deps.json
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.runtimeconfig.json
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.pdb
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Humanizer.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.CodeDom.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.pdb
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.pdb
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.AssemblyReference.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfoInputs.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfo.cs
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CoreCompileInputs.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cs
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce.props
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.build.json
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.development.json
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\bundle\E-Commerce.styles.css
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce.bundle.scp.css
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CopyComplete
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.dll
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\refint\E-Commerce.dll
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.pdb
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.genruntimeconfig.cache
+D:\MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\ref\E-Commerce.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.dll
+D:\MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.Development.json
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.json
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.staticwebassets.runtime.json
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.exe
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.deps.json
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.runtimeconfig.json
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.pdb
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Humanizer.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.CodeDom.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.pdb
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.pdb
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.AssemblyReference.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfoInputs.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfo.cs
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CoreCompileInputs.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cs
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce.props
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.build.json
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.development.json
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\bundle\E-Commerce.styles.css
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce.bundle.scp.css
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CopyComplete
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.dll
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\refint\E-Commerce.dll
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.pdb
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.genruntimeconfig.cache
+G:\Project_MVC\E-Commerce\E-Commerce\obj\Debug\net7.0\ref\E-Commerce.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Common.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\af\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ar\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\az\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\bg\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\da\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\el\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fa\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\he\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\hr\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\hu\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\hy\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\id\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\is\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ku\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\lv\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\mt\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\nb\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\nl\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ro\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\sk\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\sl\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\sr\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\sv\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\uk\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\vi\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Core.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Identity.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Project_MVC\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.staticwebassets.runtime.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.exe
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.deps.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.runtimeconfig.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.AssemblyReference.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfo.cs
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cs
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce.props
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\bundle\E-Commerce.styles.css
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce.bundle.scp.css
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CopyComplete
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\refint\E-Commerce.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.genruntimeconfig.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\ref\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.Development.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\appsettings.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.staticwebassets.runtime.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.exe
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.deps.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.runtimeconfig.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Core.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Azure.Identity.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Humanizer.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.CodeDom.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net7.0\E-Commerce.DAL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.AssemblyReference.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfoInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.AssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CoreCompileInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.RazorAssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.pack.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.build.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\staticwebassets.development.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\bundle\E-Commerce.styles.css
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce.bundle.scp.css
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.csproj.CopyComplete
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\refint\E-Commerce.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\E-Commerce.genruntimeconfig.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net7.0\ref\E-Commerce.dll

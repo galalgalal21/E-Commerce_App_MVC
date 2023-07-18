@@ -1,0 +1,75 @@
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.deps.json
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CopyComplete
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\refint\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\ref\E-Commerce.BLL.dll
+D:\MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.deps.json
+D:\MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.dll
+D:\MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.pdb
+D:\MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.dll
+D:\MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfo.cs
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CopyComplete
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.dll
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\refint\E-Commerce.BLL.dll
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.pdb
+D:\MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\ref\E-Commerce.BLL.dll
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.deps.json
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.dll
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.pdb
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.dll
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfo.cs
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CopyComplete
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.dll
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\refint\E-Commerce.BLL.dll
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.pdb
+G:\Project_MVC\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\ref\E-Commerce.BLL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.deps.json
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfo.cs
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CopyComplete
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\refint\E-Commerce.BLL.dll
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.pdb
+C:\Users\Office\Downloads\gala\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\ref\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.deps.json
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\bin\Debug\net7.0\E-Commerce.DAL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.AssemblyInfo.cs
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.csproj.CopyComplete
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\refint\E-Commerce.BLL.dll
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\E-Commerce.BLL.pdb
+F:\ITI .Net\12. .Net Core MVC\Project E_Commerce\E-Commerce\E-Commerce\E-Commerce.BLL\obj\Debug\net7.0\ref\E-Commerce.BLL.dll

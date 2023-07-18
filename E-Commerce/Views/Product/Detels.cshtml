@@ -1,0 +1,21 @@
+﻿@using E_Commerce.BLL.EntityVM;
+@model ProductsVM
+@{
+    ViewData["Title"] = "Detels";
+}
+
+
+
+<div style="width: 10% ;margin:auto"><h1>Details</h1></div>
+
+
+<div class="card" style="width: 50% ;margin:auto">
+    <img src="~/image/@Model.Image" class="card-img-top round-3" style="width: 100% ;height:30rem">
+    <div class="card-body p-2" style="padding:30px">
+        <h5 class="card-title">@Model.name</h5>
+        <p class="card-text">@Model.price $</p>
+        <p class="card-text">@Model.descreption</p>
+        <a asp-action="Index" type="button" class="btn btn-dark btn-outline-info mx-4">Back To List</a>
+        <a asp-route-id="@Model.id" asp-action="saveId" asp-controller="Product" type="button" class="btn btn-warning"> BUY </a>
+    </div>
+</div>
